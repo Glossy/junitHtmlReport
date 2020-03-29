@@ -28,7 +28,7 @@ output.write(template);
     "testPass": 1,
     "testResult": [
         {
-            "className": "com.test.testcase.TestDemo1",
+            "className": "com.testcase.TestDemo1",
             "methodName": "testDemo",
             "description": "测试DEMO",
             "spendTime": "11ms",
@@ -49,7 +49,7 @@ output.write(template);
 
 ## Java TestNg使用示例
 
-请参考[ztest](https://github.com/zhangfei19841004/ztest)中的`TestDemo1.java ZTestReport.java`
+请参考[ztest](https://github.com/zhangfei19841004/ztest)中的`com.testcase.TestDemo1.java ZTestReport.java`
 
 ## 报告展示
 
