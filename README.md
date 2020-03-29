@@ -51,6 +51,9 @@ output.write(template);
 
 请参考[ztest](https://github.com/zhangfei19841004/ztest)中的`com.testcase.TestDemo1.java ZTestReport.java`
 
+## Junit 实现
+参考src\test TestPlanExample.java的使用方法
+
 ## 报告展示
 
 ![ztest](https://github.com/zhangfei19841004/ztest/blob/master/ztest.png)
